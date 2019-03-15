@@ -1,0 +1,38 @@
+h1{
+  font-size: 45px;
+  text-align: center;
+}
+body{
+  background-repeat:no-repeat;
+  background-size: cover;
+
+}
+.sidebar{
+  display: block;
+  float: right;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 22px;
+  border: 8px solid grey;
+  width: 250px;
+  color: white;
+  text-align: center;
+  padding: 2px;
+margin-right: 90px;
+}
+.blu{
+  font-size: 20px;
+  color: white;
+  align-items: baseline;
+  border: 8px solid green;
+  float: left;
+  width: 400px;
+  background-image: url(background1 linear-gradient());
+}
+.work{
+  border:8px solid blue;
+  float: right;
+  width: 400px;
+  color: white;
+  
+}
